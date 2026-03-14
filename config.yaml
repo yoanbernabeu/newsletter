@@ -1,0 +1,15 @@
+gemini:
+  model: "gemini-3-flash-preview"
+
+newsletter:
+  language: "fr"
+  max_highlights: 5
+  editorial_prompt: "A casual, tech-savvy tone with a focus on practical insights."
+
+mail:
+  subject_prefix: "[DayBrief]"
+
+sources:
+  rss:
+    - url: "https://flux.yoandev.co/rss.xml"
+      name: "Flux YoanDev"
