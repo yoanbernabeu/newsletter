@@ -25,5 +25,13 @@ sources:
       url: https://intelligence.org/feed
     - name: O'Reilly Radar — AI/ML
       url: https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml
+    - name: Brent Roose — Stitcher.io
+      url: https://stitcher.io/rss
+    - name: The PHP Foundation
+      url: https://thephp.foundation/blog/feed.xml
+    - name: PHP Architect
+      url: https://www.phparch.com/feed/
+    - name: Symfony Blog
+      url: https://feeds.feedburner.com/symfony/blog
   youtube: []
   podcasts: []
