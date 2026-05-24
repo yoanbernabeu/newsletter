@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-05-24T07:58:10Z",
+  "subject": "Retour aux fondamentaux : la puissance cachée de la liste de description HTML",
+  "editorial": "On a tendance à oublier que le HTML est une matière vivante, même dans ses recoins les plus anciens. L'élément dl en est l'exemple parfait : souvent ignoré ou mal utilisé, il revient sur le devant de la scène pour nous rappeler que la sémantique est le fondement même d'un web accessible et structuré. Ce n'est plus une simple liste de définitions, mais un outil puissant pour décrire des métadonnées complexes.\n\nLe passage officiel du terme liste de définition à liste de description n'est pas qu'une coquetterie de standardisation. Cela reflète un changement de paradigme où l'on accepte que le web n'est pas qu'un dictionnaire géant, mais un ensemble de relations entre des termes et leurs valeurs associées. Cette nuance permet d'utiliser cet élément pour des FAQs, des métadonnées d'articles ou même des fils de discussion.\n\nL'une des évolutions les plus pragmatiques du standard HTML reste l'autorisation d'inclure des éléments div à l'intérieur d'une liste dl pour regrouper les paires dt et dd. Pendant des années, les développeurs ont dû choisir entre un balisage valide et la facilité de mise en page CSS. Cette réconciliation montre que le W3C écoute enfin les besoins réels de ceux qui construisent le web au quotidien.\n\nCependant, la flexibilité technique ne doit pas nous faire oublier la responsabilité de l'accessibilité. Le support par les lecteurs d'écran reste le talon d'Achille de ces structures complexes. Utiliser des attributs ARIA ou surveiller l'annonce des listes par les technologies d'assistance est indispensable si l'on veut que nos choix de design ne créent pas des barrières pour une partie de nos utilisateurs.\n\nEn fin de compte, maîtriser les bases comme l'élément dl est un investissement plus durable que d'apprendre le dernier framework à la mode. À l'heure où les moteurs de recherche et les outils d'intelligence artificielle cherchent à extraire du sens brut de nos pages, une structure HTML solide et sémantique reste la meilleure interface entre nos données et le reste du monde numérique.",
+  "highlights": [
+    {
+      "title": "Maîtriser l'élément HTML \u003cdl\u003e",
+      "source_name": "Simon Willison's Weblog",
+      "source_url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+      "analysis": "Cette analyse technique nous rappelle que même les balises les plus simples cachent des nuances importantes. L'intégration des éléments div pour le stylage est une victoire pour le design système moderne, mais elle impose une vigilance accrue sur la restitution vocale. C'est le moment idéal pour auditer vos composants et vérifier s'ils respectent ces nouveaux standards de structuration sémantique."
+    }
+  ],
+  "resources": []
+}
